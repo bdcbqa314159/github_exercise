@@ -1,3 +1,6 @@
 titanic
 avatar
 martin eden
+lasagna
+pizza
+aji de gallina
